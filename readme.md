@@ -1,9 +1,9 @@
 Hello World!
 
-Logo
+NO LOGO PLEASE
 
 Nav Bar
 
-Header
+NO HEADER
 
 Footer
