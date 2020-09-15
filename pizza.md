@@ -4,6 +4,6 @@ Tomato sauce/White sauce
 
 Olive/Salami 
 
-Onion/<nothing>
+Onion/"nothing"
 
 Mozzarella/Gorgonzola 
