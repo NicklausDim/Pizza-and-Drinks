@@ -1,9 +1,9 @@
 Dough 
 
-Tomato sauce/White sauce 
+White sauce 
 
-Olive/Salami 
+Olive 
 
-Onion/"nothing"
 
-Mozzarella/Gorgonzola 
+
+Mozzarella
